@@ -1,4 +1,4 @@
-**Olá, que bom ter você aqui!**😁
+**Olá, que bom ter você aqui!** 😁
 
 Meu nome é Raphael Eduardo Quintiliano Reis, tenho 18 anos e ainda estou
 cursando o Ensino Médio. Faço Curso de Eletricista de Manutenção Eletroeletrônica
@@ -14,12 +14,14 @@ atualmente, estou utilizando essa plataforma para compartilhamento de meus proje
 - experiência com arduino
 - design gráfico básico
 - desenho
+- me desenvolvendo com linguagem de programação(javascript)
 
-**contato**📞
+**contato** 📞
 
 Email: eduardoraphael83@gmail.com
 Instagram: @Raphael_8092
 
-💙**obrigado pela atenção.**💙
+💙 **obrigado pela atenção.** 💙
 
-![image](https://github.com/user-attachments/assets/62dbdb6e-c97d-4ed1-9f5e-24c22c19dadc)
+![image](https://github.com/user-attachments/assets/78603591-974f-46eb-bcf9-08775476e5a4)
+
